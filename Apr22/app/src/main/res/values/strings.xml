@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="agreeting">I welcome you lovely to my Android Application</string>
+</resources>
